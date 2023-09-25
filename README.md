@@ -2,7 +2,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt;  I am <b>Saad Qureshi</b></samp>
+        <samp>&gt;  I am <b>Saad Qureshi</b>
+        </samp>
 </h3>
 <p align="center"> 
   <samp>  
