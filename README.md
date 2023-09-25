@@ -33,11 +33,10 @@
 
 # 📊 GitHub Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaadqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/msaadqureshi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msaadqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/msaadqureshi) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msaadqureshi&theme=dark&hide_border=false)](https://github.com/msaadqureshi)
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaadqureshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/msaadqureshi)<br/> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msaadqureshi&theme=dark&hide_border=false)](https://github.com/msaadqureshi)
 
 ---
 
