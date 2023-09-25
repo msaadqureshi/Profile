@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 👋
 
 👨‍💻 React Native | MERN Stack Developer<br>
 ⚡ Tech Content Creator<br>
