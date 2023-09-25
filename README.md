@@ -24,12 +24,12 @@
 </p>
 <br />
 
-# 🙍‍♂️ About Me:
+<!-- # 🙍‍♂️ About Me:
 
 👨‍💻 React Native | MERN Stack Developer<br>
 ⚡ Tech Content Creator<br>
 💼 Open To Job Opportunities<br>
-🌎 saadqureshi.netlify.app<br><br>
+🌎 saadqureshi.netlify.app<br><br> -->
 
 <!-- [saadqureshi.netlify.app](https://saadqureshi.netlify.app) -->
 
