@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>  
    <br>
-    「 I worked as React Native | MERN Stack developer 」
+    「 I worked as React Native | Flutter | MERN Stack developer 」
     <br>
     <br>
   </samp>
